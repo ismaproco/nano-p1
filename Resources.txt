@@ -1,0 +1,5 @@
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font
+http://www.google.com/design/spec/layout/principles.html
+http://getbootstrap.com/css/#grid-example-basic

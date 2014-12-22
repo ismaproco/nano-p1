@@ -1,0 +1,35 @@
+/* global styles */
+* {
+    font: 16px "Lucida Grande", sans-serif;
+    line-height: 32px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #666;
+}
+
+p {
+    margin-top: 0px;
+    
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f07c17;
+    margin: 0 0 30px 0;
+}
+
+
+/* header styles */
+.header {
+    margin: 25px 0 20px 0;
+}
+
+/* feature styles */
+.feature-content {
+    border: 1px solid #ccc;
+    padding: 30px 30px;
+    margin: 30px 0;
+}
